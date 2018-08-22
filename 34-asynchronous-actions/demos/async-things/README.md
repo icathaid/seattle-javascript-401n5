@@ -1,0 +1,1 @@
+Demo of fetching data asynchronously using Redux thunks
